@@ -1,0 +1,31 @@
+.header {
+  background: rgb(255, 255, 255);
+}
+
+.content {
+  font: 1em sans-serif ;
+  background: blueviolet;
+  text-align: center;
+  margin-top: 10px; 
+}
+
+#body{
+  font: 1em sans-serif;
+  background: red;
+  text-align: center;
+  margin-top: 10px; 
+}
+
+table{
+  font: 1em sans-serif;
+  background: rgb(217, 255, 0);
+  margin-left: auto;
+  margin-right: auto;
+  empty-cells: hide;
+  border-spacing: 5px;
+}
+
+th, td{
+  padding: 5px;
+  border: 1px solid #000;
+}
